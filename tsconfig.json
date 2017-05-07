@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es6",
+        "noImplicitAny": false,
+        "sourceMap": true,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true
+    },
+    "exclude": [
+        "deployment",
+        "node_modules",
+        "typings/modules",
+        "typings/globals",
+        "frontend",
+        "streamProcessors"
+    ]
+}

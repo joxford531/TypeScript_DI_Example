@@ -1,0 +1,29 @@
+{
+  "name": "webserver",
+  "version": "1.0.0",
+  "description": "sequelize db model",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.1.6",
+    "reflect-metadata": "^0.1.10",
+    "routing-controllers": "^0.7.0-alpha.9",
+    "typedi": "^0.5.1",
+    "typescript": "^2.2.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.0.35",
+    "@types/node": "^7.0.14",
+    "gulp-shell": "^0.5.2",
+    "gulp-sourcemaps": "^2.6.0",
+    "merge-stream": "^1.0.0",
+    "vinyl-fs": "^2.4.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
