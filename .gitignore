@@ -25,10 +25,14 @@ bower_components
 public/**/*
 
 # TypeScript output
-server/**/*.js
-server/**/*.js.map
-unit/**/*.js
-unit/**/*.js.map
+*.js
+*.js.map
+controllers/**/*.js
+controllers/**/*.js.map
+model/**/*.js
+model/**/*.js.map
+services/**/*.js
+services/**/*.js.map
 
 # Deployment
 deployment/**/*
